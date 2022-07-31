@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_58fa5080_729f_4377_b333_5098221cc304_Output_Variables_logPayload = Any
+
