@@ -40,3 +40,4 @@ local.properties
 flows/
 target/
 **/*.mflow
+mule-artifact.json
